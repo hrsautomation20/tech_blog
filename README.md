@@ -67,7 +67,7 @@ Once your .evn file has been configured:
 
 ### Video Tutorial
 
-[Video Walkthrough](https://drive.google.com/file/d/1y_e8YTegKdUf5IqtBHfXU3mB5PO7spWu/view?usp=sharing)
+[Video Walkthrough](https://drive.google.com/file/d/1Eg7pFonuAcHyERTZUqY2VG4cMqENs7U6/view?usp=sharing)
 
 
 

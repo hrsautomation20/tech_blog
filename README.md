@@ -65,9 +65,24 @@ Once your .evn file has been configured:
 
 ![Database](./public/images/database.PNG "database_design")
 
+### Video Tutorial
+
+[Video Walkthrough](https://drive.google.com/file/d/1y_e8YTegKdUf5IqtBHfXU3mB5PO7spWu/view?usp=sharing)
+
+
+
 ### Screenshots
 
-![Insomnia](./public/images/insomnia-api.PNG "insomnia_api")
+#### Home
+![Home](./public/images/home.PNG "home")
+
+#### Login/SignUp
+![login](./public/images/login.PNG "login")
+
+#### Post
+![post](./public/images/postcreated.PNG "post")
+
+
 
 
 <a name="command"></a>
@@ -78,9 +93,15 @@ To install dependency enter the command "npm i" or npm install" in your terminal
 
 ### Dependency
 
+- [bcrypt](https://www.npmjs.com/package/bcrypt)
+- [connect-session-sequelize](https://www.npmjs.com/package/connect-session-sequelize)
+- [dotenv](https://www.npmjs.com/package/dotenv)
+- [express](https://www.npmjs.com/package/express)
+- [express-handlebars](https://www.npmjs.com/package/express-handlebars)
+- [express-session](https://www.npmjs.com/package/express-session)
 - [mysql2](https://www.npmjs.com/package/mysql2)
-- [express](https://www.npmjs.com/package/colors)
-- [dotenv](https://www.npmjs.com/package/asciiart-logo)
+- [sequelize](https://www.npmjs.com/package/sequelize)
+
 
 ### Launch the app
 
